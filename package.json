@@ -1,6 +1,6 @@
 {
   "name": "npm-demo-rja87sd",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Ryan",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "string-utils-rja87sd": "^1.0.0"
+  }
 }
